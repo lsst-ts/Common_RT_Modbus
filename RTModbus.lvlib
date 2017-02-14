@@ -9,8 +9,9 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="CRC.lvclass" Type="LVClass" URL="../CRC/CRC.lvclass"/>
-		<Item Name="FrameBuilder.lvclass" Type="LVClass" URL="../FrameBuilder/FrameBuilder.lvclass"/>
-		<Item Name="FrameParser.lvclass" Type="LVClass" URL="../FrameParser/FrameParser.lvclass"/>
+		<Item Name="DynamicFrameBuilder.lvclass" Type="LVClass" URL="../DynamicFrameBuilder/DynamicFrameBuilder.lvclass"/>
+		<Item Name="DynamicFrameParser.lvclass" Type="LVClass" URL="../DynamicFrameParser/DynamicFrameParser.lvclass"/>
+		<Item Name="FixedFrameBuilder.lvclass" Type="LVClass" URL="../FixedFrameBuilder/FixedFrameBuilder.lvclass"/>
 	</Item>
 	<Item Name="Modbus.lvclass" Type="LVClass" URL="../Modbus/Modbus.lvclass"/>
 </Library>
