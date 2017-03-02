@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="DataTypes" Type="Folder">
+		<Item Name="ExceptionCodes.ctl" Type="VI" URL="../DataTypes/ExceptionCodes.ctl"/>
 		<Item Name="Frame.ctl" Type="VI" URL="../DataTypes/Frame.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
@@ -13,5 +14,7 @@
 		<Item Name="DynamicFrameParser.lvclass" Type="LVClass" URL="../DynamicFrameParser/DynamicFrameParser.lvclass"/>
 		<Item Name="FixedFrameBuilder.lvclass" Type="LVClass" URL="../FixedFrameBuilder/FixedFrameBuilder.lvclass"/>
 	</Item>
+	<Item Name="IModbus.lvclass" Type="LVClass" URL="../IModbus/IModbus.lvclass"/>
+	<Item Name="IModbusFactory.lvclass" Type="LVClass" URL="../IModbusFactory/IModbusFactory.lvclass"/>
 	<Item Name="Modbus.lvclass" Type="LVClass" URL="../Modbus/Modbus.lvclass"/>
 </Library>
