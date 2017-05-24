@@ -6,7 +6,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="DataTypes" Type="Folder">
 		<Item Name="ExceptionCodes.ctl" Type="VI" URL="../DataTypes/ExceptionCodes.ctl"/>
-		<Item Name="Frame.ctl" Type="VI" URL="../DataTypes/Frame.ctl"/>
+		<Item Name="RxFrame.ctl" Type="VI" URL="../DataTypes/RxFrame.ctl"/>
+		<Item Name="TxFrame.ctl" Type="VI" URL="../DataTypes/TxFrame.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="CRC.lvclass" Type="LVClass" URL="../CRC/CRC.lvclass"/>
