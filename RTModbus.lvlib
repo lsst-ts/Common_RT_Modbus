@@ -10,7 +10,6 @@
 		<Item Name="TxFrame.ctl" Type="VI" URL="../DataTypes/TxFrame.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="CRC.lvclass" Type="LVClass" URL="../CRC/CRC.lvclass"/>
 		<Item Name="DynamicFrameBuilder.lvclass" Type="LVClass" URL="../DynamicFrameBuilder/DynamicFrameBuilder.lvclass"/>
 		<Item Name="DynamicFrameParser.lvclass" Type="LVClass" URL="../DynamicFrameParser/DynamicFrameParser.lvclass"/>
 		<Item Name="FixedFrameBuilder.lvclass" Type="LVClass" URL="../FixedFrameBuilder/FixedFrameBuilder.lvclass"/>
