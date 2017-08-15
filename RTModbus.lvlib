@@ -16,5 +16,4 @@
 	</Item>
 	<Item Name="IModbus.lvclass" Type="LVClass" URL="../IModbus/IModbus.lvclass"/>
 	<Item Name="IModbusFactory.lvclass" Type="LVClass" URL="../IModbusFactory/IModbusFactory.lvclass"/>
-	<Item Name="Modbus.lvclass" Type="LVClass" URL="../Modbus/Modbus.lvclass"/>
 </Library>
